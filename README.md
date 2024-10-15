@@ -6,6 +6,8 @@ This project is a digital Cribbage board created out of love and necessity. My w
 
 This digital Cribbage board is our solution to ensure that we never miss out on our anniversary game, no matter where we are or what we've forgotten to pack.
 
+This project also serves as an example of using prompt driven development to build a project. Cursor was used to build out the code for the project.
+
 ## Features
 
 - Add up to 6 players
